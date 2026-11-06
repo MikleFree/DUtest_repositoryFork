@@ -11,3 +11,4 @@ Praktiskais darbs **programmu kvalitates testesanai**
   - [x] push
   - [x] fork and merge
   - [x] manage versions
+> darba beigsana
