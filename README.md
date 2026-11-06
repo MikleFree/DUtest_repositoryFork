@@ -9,5 +9,5 @@ Praktiskais darbs **programmu kvalitates testesanai**
   - [x] update
   - [x] pull
   - [x] push
-  - [ ] fork and merge
-  - [ ] manage versions
+  - [x] fork and merge
+  - [x] manage versions
