@@ -4,7 +4,7 @@ Praktiskais darbs **programmu kvalitates testesanai**
 - [x] on computer install CLI (Bash) GIT client, sychronize with hub
 - [x] create software repository locally (init)
 - [x] push repo to the hub
-- [ ] practical usages:
+- [x] practical usages:
   - [x] clone
   - [x] update
   - [x] pull
